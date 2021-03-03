@@ -16,6 +16,18 @@ sections:
     background_image: images/hero-background.jpg
     background_image_opacity: 15
     background_image_size: cover
+  - type: features_section
+    title: What you’ll experience
+    features:
+      - content: >-
+          Event is a responsive theme for online events, meetups, conferences
+          and webinars from Stackbit.
+        align: center
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    background_color: none
   - type: grid_section
     grid_items:
       - title: 2 Days
@@ -50,18 +62,6 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - type: features_section
-    title: What you’ll experience
-    features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
-        align: center
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
   - type: features_section
     features:
       - title: Hands-On Workshops
