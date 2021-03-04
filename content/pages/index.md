@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Tony Robbins
-    subtitle: Date With Destiny
+    subtitle: DATE WITH DESTINY
     content: |
       ##### **Gold Coast, Australia**
     actions:
