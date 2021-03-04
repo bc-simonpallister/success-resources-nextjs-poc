@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Tony Robbins
     subtitle: Date With Destiny
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **Gold Coast, Australia**
     actions:
       - label: Get Your Ticket Today!
         url: /about
