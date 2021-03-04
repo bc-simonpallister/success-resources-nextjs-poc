@@ -91,7 +91,7 @@ sections:
           creator of the #1 personal and professional development program of all
           time.[BOOK
           NOW](https://www.date-with-destiny.com.au/?ls=DWD21\_DWD_WEB#book)
-        image: images/feature-3.jpg
+        image: images/tony.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
