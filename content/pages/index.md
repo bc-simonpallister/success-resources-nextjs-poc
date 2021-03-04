@@ -5,7 +5,7 @@ sections:
     title: Tony Robbins
     subtitle: Date With Destiny
     content: |
-      # **Gold Coast, Australia**
+      ##### **Gold Coast, Australia**
     actions:
       - label: Get Your Ticket Today!
         url: /about
