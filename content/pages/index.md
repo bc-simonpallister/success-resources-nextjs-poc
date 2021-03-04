@@ -65,10 +65,7 @@ sections:
   - type: features_section
     features:
       - title: YOUR DESTINY AWAITS
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: "Embark on a journey –\_**6 days LIVE and IN PERSON**\_with Tony in a supportive environment of total immersion! At Date With Destiny, you won’t simply discover who you are — you will decide and create your own life-changing experience. Connect with your ultimate purpose and ignite your passion to achieve the ultimate vision of your life, career, finances, health and relationships. You will gain a clear and deep understanding of what truly motivates you; thoughts, feelings and behaviours and build toward your own personal breakthrough.\n"
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
