@@ -72,10 +72,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: GET A TASTE OF THE EVENT EXPERIENCE
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: "n 2017 director Joe Berlinger was granted never before seen access to create “Tony Robbins: I Am Not Your Guru” - a behind the scenes look into his most intense and intimate event.\n\nThis is the trailer for what\_**Inc.com**\_calls;\_*“The Best 2 Hours You Can Spend on Netflix”*.\n"
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
