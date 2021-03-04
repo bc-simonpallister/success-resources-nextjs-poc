@@ -78,11 +78,19 @@ sections:
         media_position: left
         media_width: sixty
       - title: About Tony Robbins
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          LEAD FACILITATOR
+
+          Tony Robbins is an entrepreneur, best-selling author, philanthropist,
+          and the nation’s #1 life and business strategist. For more than 4
+          decades, more than 50 million people, including top entertainers,
+          world-class athletes and billionaire business leaders, have enjoyed
+          the warmth, humor, and transformational power of his business and
+          personal development events. Tony is the nation’s #1 life and business
+          strategist, author of six internationally bestselling books, and
+          creator of the #1 personal and professional development program of all
+          time.[BOOK
+          NOW](https://www.date-with-destiny.com.au/?ls=DWD21\_DWD_WEB#book)
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
